@@ -1,5 +1,5 @@
-from bot.client import Gongo
+from bot.client import Broadcast
 from bot.settings import BOT_TOKEN
 
 if __name__ == '__main__':
-    Gongo().run(BOT_TOKEN)
+    Broadcast().run(BOT_TOKEN)

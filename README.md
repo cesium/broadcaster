@@ -1,4 +1,4 @@
-# Gongo
+# Broadcaster
 > :robot: A bot for broadcasting messages across all channels in a Discord server.
 
 ## :rocket: Getting Started
